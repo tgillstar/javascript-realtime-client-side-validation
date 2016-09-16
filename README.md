@@ -1,7 +1,7 @@
-Web application with real-time client-side validation
+Web application with real-time client-side Javascript validation
 ---
 
-This web project has a form which gives real-time client-side validation as the user enters information. 
+This web project has a form which gives real-time client-side Javascript validation as the user enters information. 
 Then when the form is submitted, a mock status code is given based on whether or not the data passed to the 
 "server" is valid or not. This project uses the Slim Framework as well as Bootstrap.
 
